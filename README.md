@@ -2,11 +2,11 @@
 
 ## Current behavior
 
-Outdated dependency [`coverlot.collector`](tests/TestProject/TestProject.csproj) is not processed by Renovate.
+Outdated dependency [`coverlet.collector`](tests/TestProject/TestProject.csproj) is not processed by Renovate.
 
 ## Expected behavior
 
-Outdated dependency [`coverlot.collector`](tests/TestProject/TestProject.csproj) is processed by Renovate.
+Outdated dependency [`coverlet.collector`](tests/TestProject/TestProject.csproj) is processed by Renovate.
 
 ## Link to the Renovate issue or Discussion
 
