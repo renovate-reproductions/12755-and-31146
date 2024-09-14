@@ -10,4 +10,8 @@ Outdated dependency [`coverlet.collector`](tests/TestProject/TestProject.csproj)
 
 ## Link to the Renovate issue or Discussion
 
-https://github.com/renovatebot/renovate/discussions/12755
+- https://github.com/renovatebot/renovate/discussions/12755
+
+## Link to PR that resolved this problem
+
+- https://github.com/renovatebot/renovate/pull/31146
